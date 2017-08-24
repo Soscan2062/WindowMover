@@ -1,4 +1,5 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+﻿;Version 1.0
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 ;~ #NoTrayIcon
 #Persistent
