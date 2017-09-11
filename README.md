@@ -9,10 +9,12 @@ The order is primary window, top secondary window, bottom secondary window.
 3. Click ok.
 
 Known limitations:
-I'm pretty sure a secondary window to the left will cause a problem.
+* Supports 2 monitors and up to 24 open windows.
+* I'm pretty sure a secondary window to the left will cause a problem.
 
 Possible future features (in order of most to least likely):
 * Clicking additional windows will just bring them to front.
+* Add ability to adjust vid change within window and save it to appdata
 * More positions for both primary and secondary
 * Hover over button and tool tip will show screen shot of window.
 * Possible addition of 3+ window support.
@@ -20,7 +22,11 @@ Possible future features (in order of most to least likely):
 * Collage view of open windows to pick from instead of list.
 
 Change log:
-* V1.0
+* V1.01 9/11/17
+  * Corrected error with win3 top location
+  * Code cleanup 
+  * Added bring to front for additional windows
+* V1.0 8/23/17
   * Initial push
   * Minor formatting changes
   * Added versioning
